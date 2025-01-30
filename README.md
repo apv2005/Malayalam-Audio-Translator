@@ -11,4 +11,13 @@ The model performs the following steps:
 
 3. Synthesis: Converts the translated Malayalam text to speech using facebook/mms-tts-mal for text-to-speech synthesis.
 
+##Dependencies
+
+* transformers
+
+* gradio
+
+* datasets
+
+* numpy
 
